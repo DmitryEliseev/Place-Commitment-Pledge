@@ -15,7 +15,8 @@
 ----
 
 ### Криейтеры, присоединившиеся к PCP:
-- @moveton (пост: https://ton.place/group9325?w=post1294511) / 25.02
+- [@moveton](https://ton.place/moveton) (пост: https://ton.place/group9325?w=post1294511) / 25.02
+- [@betep](https://ton.place/betep) (пост: https://ton.place/betep?w=post1323545) / 25.02
 
 ---
 
